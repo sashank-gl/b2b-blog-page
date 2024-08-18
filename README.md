@@ -57,6 +57,5 @@ For a step-by-step guide, watch the full tutorial on YouTube:
 Consider supporting me if you like my work and want to say thanks:
 
 - [CitrusUI Support](https://citrusui.in/support)
-- [Buy Me a Coffee](https://buymeacoffee.com/sashankgl)
 
 Happy coding! 💻🎉
